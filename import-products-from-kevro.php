@@ -3,7 +3,7 @@
  * Plugin Name: Import Products from Kevro
  * Version: 1.0.0
  * Plugin URI: https://www.timothymuvuti.com/
- * Description: This is a custom developed plugin for importing products from Kevro &copy; Beatnyama.
+ * Description: This is a custom developed plugin for importing products from Kevro
  * Author: Timothy Muvuti
  * Author URI: https://www.timothymuvuti.com/
  * Requires at least: 4.0
